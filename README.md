@@ -45,14 +45,14 @@ Follow these instructions to get the project up and running on your local machin
 
 ## Implementation Details
 
-React with TypeScript: Ensures type safety and robustness.
-State Management (useState and useEffect): Core React hooks manage state and handle side effects like score updates and visual highlights.
-Performance (useCallback): Optimizes the scoring logic to prevent unnecessary re-renders.
-CSS Transitions: Smooth transformations and animations for an enhanced user experience
+1. React with TypeScript: Ensures type safety and robustness.
+2. State Management (useState and useEffect): Core React hooks manage state and handle side effects like score updates and visual highlights.
+3. Performance (useCallback): Optimizes the scoring logic to prevent unnecessary re-renders.
+4. CSS Transitions: Smooth transformations and animations for an enhanced user experience
 
 ## Design Decisions
 
-Styling with Tailwind CSS: Tailwind CSS was chosen for its utility-first design, allowing rapid prototyping and consistent styling across components.
-Component Library: Leveraged shadcn/ui for pre-styled, accessible, and customizable UI components like cards and titles.
-Gradients and Effects: Background gradients and glowing effects were implemented to enhance visual appeal and user engagement.
-Responsiveness: Tailwind's flexible classes ensure the layout adapts well to different screen sizes.
+1. Styling with Tailwind CSS: Tailwind CSS was chosen for its utility-first design, allowing rapid prototyping and consistent styling across components.
+2. Component Library: Leveraged shadcn/ui for pre-styled, accessible, and customizable UI components like cards and titles.
+3. Gradients and Effects: Background gradients and glowing effects were implemented to enhance visual appeal and user engagement.
+4. Responsiveness: Tailwind's flexible classes ensure the layout adapts well to different screen sizes.
