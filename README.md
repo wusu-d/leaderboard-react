@@ -42,3 +42,17 @@ Follow these instructions to get the project up and running on your local machin
 1. Clone the repository / Download source file
 2. Install node dependies using: pnpm install
 3. Run project using: pnpm run dev
+
+## Implementation Details
+
+React with TypeScript: Ensures type safety and robustness.
+State Management (useState and useEffect): Core React hooks manage state and handle side effects like score updates and visual highlights.
+Performance (useCallback): Optimizes the scoring logic to prevent unnecessary re-renders.
+CSS Transitions: Smooth transformations and animations for an enhanced user experience
+
+## Design Decisions
+
+Styling with Tailwind CSS: Tailwind CSS was chosen for its utility-first design, allowing rapid prototyping and consistent styling across components.
+Component Library: Leveraged shadcn/ui for pre-styled, accessible, and customizable UI components like cards and titles.
+Gradients and Effects: Background gradients and glowing effects were implemented to enhance visual appeal and user engagement.
+Responsiveness: Tailwind's flexible classes ensure the layout adapts well to different screen sizes.
