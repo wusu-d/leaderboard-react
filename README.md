@@ -26,7 +26,7 @@ A real-time, animated leaderboard with a festive confetti background and a beaut
 
 ## Demo
 
-You can see a live demo of the project [here](https://your-demo-url.com).
+You can see a live demo of the project [here](https://leaderboard-react.vercel.app/).
 
 ## Getting Started
 
